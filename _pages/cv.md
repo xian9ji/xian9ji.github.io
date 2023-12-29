@@ -25,8 +25,13 @@ Work experience
 Skills
 ======
 * Energetic Variational Approach
-* Lattice Boltzmann Method
+* Computational fluid dynamics
+  * High-performance computing using GPU
+  * Lattice Boltzmann method
+  * COMSOL
 * Deep Learning
+  * Data-driven equation discovery/system identification
+  * Transfer learning 
 * Scientific Computing
   * C++
   * CUDA
