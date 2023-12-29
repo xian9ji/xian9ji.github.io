@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computational Mathematics, Soochow University, 2023
+* M.S. in Computational Mathematics, Soochow University, 2019
+* B.S. in Applied Mathematics, Taiyuan University of Technology, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Postdoctoral research associate
+  * Shanghai Jiao Tong University
+  * Duties included: Mathematical modeling of new energy devices
+  * Supervisor: Professor Shenggao Zhou
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Energetic Variational Approach
+* Lattice Boltzmann Method
+* Deep Learning
+* Scientific Computing
+  * C++
+  * CUDA
+  * Matlab
+  * Python 
 
 Publications
 ======
