@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Xiang Ji"
-  avatar           : "profile.png"
+  avatar           : "touxiang.jpg"
   bio              : "Postdoctoral research associate at Shanghai Jiaotong University, specialized in fluid dynamics and machine learning. Email: xian9ji@sjtu.edu.cn"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xiang+ji"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=NBA1QicAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Xiang-Ji-29"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xian9ji"
   google_plus      :
   keybase          :
   instagram        :
