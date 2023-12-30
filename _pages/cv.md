@@ -25,6 +25,7 @@ Work experience
 Skills
 ======
 * Energetic Variational Approach
+  * Electrokinetic transport phenomena 
 * Computational fluid dynamics
   * High-performance computing using GPU
   * Lattice Boltzmann method
