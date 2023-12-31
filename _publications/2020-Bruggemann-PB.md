@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2020-Bruggemann-PB
 excerpt: 'This paper is about the concentration dependent dielectrics in PB theory.'
 date: 2020-1-06
-venue: 'CMS 1st'
+venue: 'Comm. Math. Sci.'
 paperurl: 'https://dx.doi.org/10.4310/CMS.2019.v17.n7.a8'
-citation: '<strong>Xiang Ji</strong>, Shenggao Zhou. (2009). "Variational approach to concentration dependent dielectrics with the Bruggeman model: Theory and numerics." Comm. Math. Sci. (2020).'
+citation: '<strong>Xiang Ji</strong> and Shenggao Zhou, Variational approach to concentration dependent dielectrics with the Bruggeman model: Theory and numerics, Comm. Math. Sci.,(2020).'
 ---
 The structure of the electric double layer has long been described by the classical Poisson–Boltzmann (PB) theory, in which a uniform dielectric coefficient is often assumed. Experimental data and molecular simulations evidence that the effective dielectric coefficient decreases with local ionic concentrations. In this work, a variational approach is developed to incorporate nonlinear concentration-dependent dielectrics described by the Bruggeman equation in a modified PB theory. The Bruggeman equation, which takes into account contributions from both counterions and coions systematically, provides a closure to the modified PB theory. In addition to ionic size and valence, our theory introduces a new source of ion-specificity, i.e., the dielectric coefficient of hydrated ions, to the continuum modeling of electrostatics. Asymptotic analysis reveals the connection between the modified PB theory and previous linear decrement models, and derives a criterion for counterion saturation. Robust numerical methods with efficient acceleration techniques are proposed to solve the resulting coupled equations. Dielectric coefficients predicted by our theory show good agreement with the experimental data for homogeneous electrolytes. The dielectric decrement effect on the ionic structure of electric double layers is assessed in extensive numerical simulations. With ion-specific parameters, our theory predicts asymmetric camel-shape profiles of differential capacitance against applied potentials for electrolytes with low salinity, and asymmetric bell-shape profiles for electrolytes with high salinity. The impact of counterion saturation, due to steric effects or dielectric decrement, on the shape of differential capacitance profiles is demonstrated through analysis and numerical investigations. To further understand the effect of concentration-dependent dielectrics, the modified PB theory is also applied to study the distribution of counterions around charged cylinders with various dielectric coefficients.
 
 [Download paper here](https://dx.doi.org/10.4310/CMS.2019.v17.n7.a8)
 
-Recommended citation: <strong>Xiang Ji</strong>, Shenggao Zhou. (2009). "Variational approach to concentration dependent dielectrics with the Bruggeman model: Theory and numerics." Comm. Math. Sci. (2020).
+Recommended citation: <strong>Xiang Ji</strong> and Shenggao Zhou, Variational approach to concentration dependent dielectrics with the Bruggeman model: Theory and numerics, Comm. Math. Sci., (2020).
